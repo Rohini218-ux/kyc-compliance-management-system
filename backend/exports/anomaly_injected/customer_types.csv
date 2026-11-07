@@ -1,0 +1,3 @@
+﻿customer_type_id,type_code,type_name,description,is_active,effective_from,effective_to
+CT-IND,IND,Individual,Individual customer,True,2026-01-01,
+CT-BUS,BUS,Business,Business customer,True,2026-01-01,

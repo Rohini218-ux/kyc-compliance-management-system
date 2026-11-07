@@ -1,0 +1,25 @@
+{
+    "project": "KYC Compliance Management System",
+    "generated_at": "2026-11-06T04:56:36.341612+00:00",
+    "dataset_seed": 20261022,
+    "validation_results": {
+        "primary_key_validation": "PASSED",
+        "foreign_key_validation": "PASSED",
+        "null_validation": "PASSED",
+        "date_and_arithmetic_validation": "PASSED",
+        "lifecycle_validation": "PASSED",
+        "document_verification_validation": "PASSED",
+        "kyc_completeness_validation": "PASSED",
+        "review_and_ownership_validation": "PASSED"
+    },
+    "anomaly_evaluation": {
+        "expected_anomalies": 5,
+        "true_positives": 5,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    },
+    "note": "Results represent the five controlled anomaly categories in this synthetic dataset. They do not establish production detection accuracy."
+}

@@ -1,0 +1,52 @@
+{
+    "dataset_seed": 20261022,
+    "injected_at": "2026-11-05T18:21:32.688234+00:00",
+    "anomalies": [
+        {
+            "anomaly_id": "AN-001",
+            "entity_type": "document",
+            "entity_id": "DOC-000002",
+            "anomaly_type": "DOCUMENT_VERIFICATION_MISMATCH",
+            "original_value": {
+                "document_status": "VERIFIED",
+                "verification_status": "VERIFIED"
+            },
+            "injected_value": {
+                "document_status": "VERIFIED",
+                "verification_status": "PENDING"
+            }
+        },
+        {
+            "anomaly_id": "AN-002",
+            "entity_type": "beneficial_owner",
+            "entity_id": "BO-CUS-006001-01",
+            "anomaly_type": "OWNERSHIP_TOTAL_OVER_100_PERCENT",
+            "original_value": "58.00",
+            "injected_value": "68.00"
+        },
+        {
+            "anomaly_id": "AN-003",
+            "entity_type": "review_case",
+            "entity_id": "REV-CUS-001980-2026",
+            "anomaly_type": "OVERDUE_REVIEW_WITH_FUTURE_DATE",
+            "original_value": "2026-10-01",
+            "injected_value": "2099-12-31"
+        },
+        {
+            "anomaly_id": "AN-004",
+            "entity_type": "customer",
+            "entity_id": "CUS-000001",
+            "anomaly_type": "FUTURE_ONBOARDING_DATE",
+            "original_value": "2025-07-01",
+            "injected_value": "2099-12-31"
+        },
+        {
+    "anomaly_id": "AN-005",
+    "entity_type": "customer_requirement",
+    "entity_id": "CR-CUS-000001-KYC-2026-000003",
+    "anomaly_type": "SATISFIED_WITHOUT_VERIFIED_DOCUMENT",
+    "original_value": "PENDING",
+    "injected_value": "SATISFIED"
+}
+    ]
+}

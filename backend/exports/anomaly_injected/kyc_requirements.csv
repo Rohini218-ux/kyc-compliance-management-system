@@ -1,0 +1,6 @@
+﻿requirement_id,requirement_code,requirement_name,document_type,description,is_mandatory,is_active,effective_from,effective_to
+KYC-2026-000001,IDENTITY_PROOF,Identity Proof,IDENTITY,Synthetic requirement: Identity Proof,True,True,2026-01-01,
+KYC-2026-000002,ADDRESS_PROOF,Address Proof,ADDRESS,Synthetic requirement: Address Proof,True,True,2026-01-01,
+KYC-2026-000003,TAX_IDENTIFICATION,Tax Identification,TAX,Synthetic requirement: Tax Identification,True,True,2026-01-01,
+KYC-2026-000004,BUSINESS_REGISTRATION,Business Registration,BUSINESS_REGISTRATION,Synthetic requirement: Business Registration,True,True,2026-01-01,
+KYC-2026-000005,BENEFICIAL_OWNERSHIP,Beneficial Ownership,OWNERSHIP,Synthetic requirement: Beneficial Ownership,True,True,2026-01-01,

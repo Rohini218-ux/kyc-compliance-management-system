@@ -1,0 +1,164 @@
+[
+    {
+        "applicability_id": 1,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000001",
+        "risk_level": "LOW",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 2,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000001",
+        "risk_level": "MEDIUM",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 3,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000001",
+        "risk_level": "HIGH",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 4,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000002",
+        "risk_level": "LOW",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 5,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000002",
+        "risk_level": "MEDIUM",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 6,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000002",
+        "risk_level": "HIGH",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 7,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000003",
+        "risk_level": "LOW",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 8,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000003",
+        "risk_level": "MEDIUM",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 9,
+        "customer_type_id": "CT-IND",
+        "requirement_id": "KYC-2026-000003",
+        "risk_level": "HIGH",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 10,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000003",
+        "risk_level": "LOW",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 11,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000003",
+        "risk_level": "MEDIUM",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 12,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000003",
+        "risk_level": "HIGH",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 13,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000004",
+        "risk_level": "LOW",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 14,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000004",
+        "risk_level": "MEDIUM",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 15,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000004",
+        "risk_level": "HIGH",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 16,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000005",
+        "risk_level": "LOW",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 17,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000005",
+        "risk_level": "MEDIUM",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "applicability_id": 18,
+        "customer_type_id": "CT-BUS",
+        "requirement_id": "KYC-2026-000005",
+        "risk_level": "HIGH",
+        "is_mandatory": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    }
+]

@@ -1,0 +1,136 @@
+{
+    "algorithm": "SHA-256",
+    "generated_at": "2026-11-06T04:57:40.457222+00:00",
+    "files": [
+        {
+            "file": "backend\\exports\\anomaly_injected\\alerts.csv",
+            "size_bytes": 761315,
+            "sha256": "95df74ba021a39bad5ba9a0341861464747dd9e029ecac34eb4562e9dd53cc2f"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\alerts.json",
+            "size_bytes": 2111959,
+            "sha256": "930f0aee22d339c265377560102163e2cbb0882881afcc34989109ec58e8f2a6"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\audit_events.csv",
+            "size_bytes": 7834002,
+            "sha256": "cf1f441a0fe657fc7ffc46c472ed610593491cfda3588b7a45096272c93b9fa4"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\audit_events.json",
+            "size_bytes": 21811680,
+            "sha256": "0ccc3ea838e901c71db19a894fff759e6d2b65cab58b300b3438e3af70677368"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\beneficial_owners.csv",
+            "size_bytes": 204158,
+            "sha256": "c4d61e443baa39195d44ae6a2cc793746c4eb419548361293d640abf7d86c3bf"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\beneficial_owners.json",
+            "size_bytes": 783349,
+            "sha256": "47bb2c4b7298de6436f2bf67fcd22c83253c16d25e2fcf45aac424935baa8f0f"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\customer_requirements.csv",
+            "size_bytes": 1872095,
+            "sha256": "abb3eb63a127bf3c86016f633f0dd5d64cef588f0f6f174672d8b60bbcf73128"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\customer_requirements.json",
+            "size_bytes": 6480007,
+            "sha256": "f0538db2b6b6a17e8c24b9c71281d2de7d7706fcbc109753ea59a071e6c5cb15"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\customer_types.csv",
+            "size_bytes": 207,
+            "sha256": "7b269ed9bf4818cd14f228b310b6ca2891a4f06ca6be54389fe55ae9d3e6780d"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\customer_types.json",
+            "size_bytes": 529,
+            "sha256": "a8d146a9691ad08675f51976fc9eda0633be81720157b95240783405422705f8"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\customers.csv",
+            "size_bytes": 703957,
+            "sha256": "e210a82e84ee7bb3d2338d115a5b7135ebfd6cdf5768bd72431261b71c90e30c"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\customers.json",
+            "size_bytes": 2378642,
+            "sha256": "12bf188cb2c651b8bdf5db4df158d7b299af27e8da2809c7dc0cef73fcb6f241"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\documents.csv",
+            "size_bytes": 2744082,
+            "sha256": "2e9989b26dc674a218d8d9328750568c9d2e5dc919633874e563aae9f940ce56"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\documents.json",
+            "size_bytes": 8063963,
+            "sha256": "75b6d646ce09cb3299ef80a0ae7382eafb964ea78bea38cccb15ed716b0b6860"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\kyc_requirements.csv",
+            "size_bytes": 766,
+            "sha256": "6dbf2d9c7350cda918c3e7e66ffc10c73a57badac86481d5619559d2cf954f73"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\kyc_requirements.json",
+            "size_bytes": 1999,
+            "sha256": "76c0a7e61a88a02f9048befab0d73b3773f3a23cd7ee9f9d6b9fb0dcb7408bc8"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\requirement_applicability.csv",
+            "size_bytes": 984,
+            "sha256": "2493fba53c63d63b932c6ff3bd75ea27681f1c0dfa87644719ccbbd72a3b83fa"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\requirement_applicability.json",
+            "size_bytes": 4788,
+            "sha256": "1e56bcf736d7a0024bc1b09a4a8271bf534db94573a71c05112342ec851e17a2"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\review_cases.csv",
+            "size_bytes": 366144,
+            "sha256": "7f6dc0222fdf95ea3a128db1e59593371c4e2545549fe02adc13b71fe186622d"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\review_cases.json",
+            "size_bytes": 1056921,
+            "sha256": "4ed1db036063b7d104cde00751a7a07ac78e9e4b3cc58f42c838445f0eee7c26"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\risk_ratings.csv",
+            "size_bytes": 789656,
+            "sha256": "e11263c0952c575171c3e4041e6c9d1f598e57398ddd0fc7ae169368e17029d1"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\risk_ratings.json",
+            "size_bytes": 2421571,
+            "sha256": "6edea8ddd0c0b99605182312dd759458140f63098d1faaeb7806e5724776ab90"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\verifications.csv",
+            "size_bytes": 2934107,
+            "sha256": "049070017fdd70ac62c123058b1345be0c2c5951abe53bb92f92f2bdb9cee1f4"
+        },
+        {
+            "file": "backend\\exports\\anomaly_injected\\verifications.json",
+            "size_bytes": 7397594,
+            "sha256": "1a55ef8cbac12bc449821cf7360ca190de02776d353498aad87739cc897f79c1"
+        },
+        {
+            "file": "backend\\exports\\sql\\kyc_anomaly_injected.backup",
+            "size_bytes": 1957967,
+            "sha256": "c43bff8de43ed7ee0bb8d19483d6b279c76b0663d43d82f09af521fc2e6983dd"
+        },
+        {
+            "file": "backend\\exports\\sql\\kyc_anomaly_injected.sql",
+            "size_bytes": 18161124,
+            "sha256": "5c9e7a51aaad862fb69a32211448b11e220439bf41dd1fc84e2e468a767fde74"
+        }
+    ]
+}

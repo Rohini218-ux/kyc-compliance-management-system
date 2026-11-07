@@ -1,0 +1,57 @@
+[
+    {
+        "requirement_id": "KYC-2026-000001",
+        "requirement_code": "IDENTITY_PROOF",
+        "requirement_name": "Identity Proof",
+        "document_type": "IDENTITY",
+        "description": "Synthetic requirement: Identity Proof",
+        "is_mandatory": true,
+        "is_active": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "requirement_id": "KYC-2026-000002",
+        "requirement_code": "ADDRESS_PROOF",
+        "requirement_name": "Address Proof",
+        "document_type": "ADDRESS",
+        "description": "Synthetic requirement: Address Proof",
+        "is_mandatory": true,
+        "is_active": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "requirement_id": "KYC-2026-000003",
+        "requirement_code": "TAX_IDENTIFICATION",
+        "requirement_name": "Tax Identification",
+        "document_type": "TAX",
+        "description": "Synthetic requirement: Tax Identification",
+        "is_mandatory": true,
+        "is_active": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "requirement_id": "KYC-2026-000004",
+        "requirement_code": "BUSINESS_REGISTRATION",
+        "requirement_name": "Business Registration",
+        "document_type": "BUSINESS_REGISTRATION",
+        "description": "Synthetic requirement: Business Registration",
+        "is_mandatory": true,
+        "is_active": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "requirement_id": "KYC-2026-000005",
+        "requirement_code": "BENEFICIAL_OWNERSHIP",
+        "requirement_name": "Beneficial Ownership",
+        "document_type": "OWNERSHIP",
+        "description": "Synthetic requirement: Beneficial Ownership",
+        "is_mandatory": true,
+        "is_active": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    }
+]

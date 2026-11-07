@@ -1,0 +1,20 @@
+[
+    {
+        "customer_type_id": "CT-IND",
+        "type_code": "IND",
+        "type_name": "Individual",
+        "description": "Individual customer",
+        "is_active": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    },
+    {
+        "customer_type_id": "CT-BUS",
+        "type_code": "BUS",
+        "type_name": "Business",
+        "description": "Business customer",
+        "is_active": true,
+        "effective_from": "2026-01-01",
+        "effective_to": null
+    }
+]

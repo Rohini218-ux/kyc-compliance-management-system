@@ -1,0 +1,33 @@
+# Salesforce CLI local files
+.sf/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node dependencies
+node_modules/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# Uploaded documents and storage
+uploads/
+storage/
+
+# Logs
+*.log
+
+# Database exports and backups
+*.backup
+backend/exports/sql/
